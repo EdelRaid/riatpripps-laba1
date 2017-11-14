@@ -1,0 +1,8 @@
+E:\Anastigmat\Универ\МОИИ\Problem\Problem\bin\Debug\Problem.exe.config
+E:\Anastigmat\Универ\МОИИ\Problem\Problem\bin\Debug\Problem.exe
+E:\Anastigmat\Универ\МОИИ\Problem\Problem\bin\Debug\Problem.pdb
+E:\Anastigmat\Универ\МОИИ\Problem\Problem\bin\Debug\Newtonsoft.Json.dll
+E:\Anastigmat\Универ\МОИИ\Problem\Problem\bin\Debug\Newtonsoft.Json.xml
+E:\Anastigmat\Универ\МОИИ\Problem\Problem\obj\Debug\Problem.csprojResolveAssemblyReference.cache
+E:\Anastigmat\Универ\МОИИ\Problem\Problem\obj\Debug\Problem.exe
+E:\Anastigmat\Универ\МОИИ\Problem\Problem\obj\Debug\Problem.pdb
